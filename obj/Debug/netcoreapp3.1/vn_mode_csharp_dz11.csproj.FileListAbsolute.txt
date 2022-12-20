@@ -11,3 +11,17 @@
 /Users/mac/Desktop/vn_mode_csharp_dz11/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz11.dll
 /Users/mac/Desktop/vn_mode_csharp_dz11/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz11.pdb
 /Users/mac/Desktop/vn_mode_csharp_dz11/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz11.genruntimeconfig.cache
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz11
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz11.deps.json
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz11.runtimeconfig.json
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz11.runtimeconfig.dev.json
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz11.dll
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz11.pdb
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz11.csproj.AssemblyReference.cache
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz11.AssemblyInfoInputs.cache
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz11.AssemblyInfo.cs
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz11.csproj.CoreCompileInputs.cache
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz11.dll
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz11.pdb
+/Users/vitalii/Documents/GitHub/ijunior_csharp_dz11/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz11.genruntimeconfig.cache
